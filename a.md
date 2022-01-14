@@ -2,7 +2,7 @@
 #### REG NO: SCT212-0076/2018
 #### COURSE: COMPUTER TECHNOLOGY
 #### PROJECT: STOCK MARKET ANALYSIS USING FBPROPHETX
-
+#### SOURCE CODE: https://github.com/paulodhiambo/stocker
 Stock market prediction is the act of trying to determine the future value of company stock or other financial instruments traded on an exchange. The successful prediction of a stock's future price could yield significant profit. The efficient-market hypothesis suggests that stock prices reflect all currently available information, and any price changes that are not based on newly revealed information thus are inherently unpredictable. Others disagree, and those with this viewpoint possess numerous methods and technologies which purportedly allow them to gain future price information.
 
 I use Facebook's Time Series forecasting algorithm Prophet to predict the stock market price of US-based companies in real-time using a multi-variate, single-step forecasting strategy.
