@@ -31,7 +31,7 @@ $ pip install -r REQUIREMENTS.txt
 
 Run project:
 ```
-$ cd warren
+$ cd stocker
 $ python runserver.py
 ```
 
